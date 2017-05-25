@@ -1,4 +1,4 @@
-# Erb::Comment
+# Erb::Comment [![Build Status](https://travis-ci.org/k0kubun/erb-comment.svg?branch=master)](https://travis-ci.org/k0kubun/erb-comment)
 
 A gem that supports [ruby/ruby#1075](https://github.com/ruby/ruby/pull/1075) ([ruby-core:71227](https://bugs.ruby-lang.org/issues/11624)).
 
