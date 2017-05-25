@@ -16,7 +16,7 @@ erb = <<-ERB
 hello
 ERB
 
-Erb::Comment.new(erb).result #=> "hello\n"
+Erb::Comment.new(erb).result #=> "\nhello\n"
 ```
 
 ## License
